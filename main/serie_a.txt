@@ -1,0 +1,21 @@
+1)Inter Milan 
+2)AC Milan 
+3)SSC Napoli
+4)Juventus FC
+5)Atalanta BC
+6)AS Roma 
+7)SS Lazio
+8)US Sassuolo
+9)ACF Fiorentina
+10)Bologna FC 1909
+11)Torino FC
+12)Hellas Verona
+13)UdineseCalcio
+14)UC Sampdoria
+15)FC Empoli
+16)AC Monza  
+17)Spezia Calcio
+18)US Salernitana 1919
+19)US Lecce  
+20)US Cremonese  
+

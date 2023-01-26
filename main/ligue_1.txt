@@ -1,0 +1,20 @@
+1)Paris Saint-Germain 
+2)AS Monaco
+3)Olympique Lyon
+4)Olympique Marseille
+5)StadeRennais FC
+6)OGC Nice
+7)LOSC Lille
+8)RC Lens
+9)Stade Reims
+10)Montpellier HSC
+11)RC Strasbourg Alsace
+12)FC Nantes 
+13)StadeBrestois 29
+14)FC Lorient
+15)Angers SCO
+16)ESTAC Troyes
+17)Clermont Foot 63
+18)FC Toulouse  
+19)AJ Auxerre  
+20)AC Ajaccio  

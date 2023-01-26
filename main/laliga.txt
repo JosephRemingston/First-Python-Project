@@ -1,0 +1,20 @@
+1)Real Madrid 
+2)FC Barcelona
+3)Atlético de Madrid
+4)Villarreal CF
+5)Real Sociedad
+6)Sevilla FC
+7)Real BetisBalompié 
+8)Valencia CF
+9)Athletic Bilbao
+10)Getafe CF
+11)Celta de Vigo
+12)RCD Espanyol Barcelona
+13)CA Osasuna
+14)UD Almería  
+15)Elche CF
+16)RayoVallecano
+17)Cádiz CF
+18)Real Valladolid CF  
+19)RCD Mallorca
+20)Girona FC  
